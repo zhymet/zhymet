@@ -37,9 +37,7 @@ Developer skills icons.
           </td>
           <td valign="top">
             <div align="center">
-              <a href="https://github.com/ayxg">
-                <h3>Anton Ya's Source GitHub</h3>
-              </a>
+              <h3><a href="https://github.com/ayxg">Anton Ya's Source GitHub</a></h3>
               <p>Current active and maintained projects.</p>
             </div>
           </td>
@@ -59,9 +57,7 @@ Developer skills icons.
           </td>
           <td valign="top">
             <div align="center">
-              <a href="https://github.com/ayzg">
-                <h3>Anton Ya's Z-Source GitHub</h3>
-              </a>
+              <h3><a href="https://github.com/ayzg">Anton Ya's Z-Source GitHub</a></h3>
               <p>Study notes, experiments, and reference material.</p>
             </div>
           </td>
