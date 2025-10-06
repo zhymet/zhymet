@@ -1,7 +1,19 @@
 <!-------------------------------------------------------------------------
 Silly animated title... :)
 --------------------------------------------------------------------------->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&duration=2000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&height=30&lines=$%20Anton+Yashchenko's+GitHub)](https://git.io/typing-svg)
+
+<div align="center">
+<picture align="center">
+  <!-- Dark theme -->
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Cascadia+Mono&duration=2000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=false&random=true&height=30&lines=$%20Anton+Yashchenko's+GitHub">
+  
+  <!-- Light theme -->
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Cascadia+Mono&duration=2000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&height=30&lines=$%20Anton+Yashchenko's+GitHub">
+  
+  <!-- Fallback (if prefers-color-scheme isn’t supported) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Cascadia+Mono&duration=2000&pause=1000&color=000000&center=true&vCenter=true&repeat=false&random=true&height=30&lines=$%20Anton+Yashchenko's+GitHub" alt="Typing SVG">
+</picture>
+</div>
 
 <!-------------------------------------------------------------------------
 Developer skills icons.
