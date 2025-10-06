@@ -22,6 +22,59 @@ Developer skills icons.
   <img src="https://skillicons.dev/icons?i=cpp,cmake,git,powershell,bash,python&theme=light" />
 </p>
 
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" valign="middle" width="600">
+      <table>
+        <tr>
+          <td valign="top">
+            <a href="https://github.com/ayxg">
+              <img src="https://github.com/ayxg.png" alt="Profile" width="100" height="100">
+            </a>
+          </td>
+          <td valign="top">
+            <div align="center">
+              <a href="https://github.com/ayxg">
+                <h3>Anton Ya's Source GitHub</h3>
+              </a>
+              <p>Current active and maintained projects.</p>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" valign="middle" width="600">
+      <table>
+        <tr>
+          <td valign="top">
+            <a href="https://github.com/ayzg">
+              <img src="https://github.com/ayzg.png" alt="Profile" width="100" height="100">
+            </a>
+          </td>
+          <td valign="top">
+            <div align="center">
+              <a href="https://github.com/ayzg">
+                <h3>Anton Ya's Z-Source GitHub</h3>
+              </a>
+              <p>Study notes, experiments, and reference material.</p>
+            </div>
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+
+
 <!-------------------------------------------------------------------------
 Github readme stats.
 @ref https://github.com/anuraghazra/github-readme-stats
