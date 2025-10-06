@@ -69,7 +69,16 @@ Developer skills icons.
 
 </div>
 
+- My areas of interest are:
+  - Compilers, automata theory and programming language design.
+  - Digital signal processing related to audio and virtual instruments(VSTs).
+  - Desktop application architechture and video game engines.
+  - Military embedded systems in aerospace and defense.
 
+- I’m currently learning:
+  - Bash scripting and Unix command line interfaces.
+  - Git subtrees & monorepo version control.
+  - Slowly switching to vim as my main code editor.   
 
 <!-------------------------------------------------------------------------
 Github readme stats.
